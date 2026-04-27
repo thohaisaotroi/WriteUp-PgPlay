@@ -2,7 +2,7 @@
 
 > **Machine:** Seppuku
 > **Difficulty:** Easy (Linux)
-> **Author:** TrieuVI
+> **Author:** vodanhtieutot
 > **Platform:** Offensive Security — Proving Grounds Play
 
 ---
